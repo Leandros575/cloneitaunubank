@@ -1,0 +1,300 @@
+body {
+    background-color:#efe9e5;
+}
+
+html {
+    padding: 260px 0px 0px 0px;
+    height: 100%;
+}
+
+header .nav .row .paravoce{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    background-color: #EFE9E5;
+    width: 100%;
+    font-size: 16px;
+    color: #252220;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    line-height: 24px;
+    font-weight: 700;
+    padding: 0px 0px 0px 122px;
+}
+
+header .nav .row .paravoce .paravocce  {
+    padding: 18px 24px 6px;
+    font-size: 16px;
+    font-family: inherit;
+    line-height: 24px;
+    margin-left: 40px;
+    color:  #252220;
+    background-color: #D9D3CF;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+header .nav .row .paravoce .paraempresa  {
+    padding: 1px 24px;
+    font-size: 16px;
+    font-family: inherit;
+    line-height: 24px;
+    margin-left: 40px;
+    color:  #252220;
+}
+
+header .barralogo .row .collogo img {
+    height: 63px;
+    margin: 0px 0px 0px -140px;
+    border-right: #ffffff solid 2px;
+    padding: 0px 41px 0px 0px;
+}
+
+header .barralogo .row .collogo {
+    display: flex;
+    margin-top: 25px;
+    margin-left: -16px;
+}
+
+header .barralogo .row .collogo ul {
+    font-family: -webkit-pictograph;
+    font-size: 23px;
+    font-weight: 700;
+    color: #ffffff;
+    letter-spacing: 0.1px;
+}
+
+header .barralogo .row .collogo h1 {
+    font-family: -webkit-pictograph;
+    font-size: 23px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+header .barralogo .row{
+    display: flex;
+   justify-content: space-around;
+   background-color: #EC7000;
+   width: 100%;
+   align-items: center;
+   position: fixed;
+   left: 0%;
+   right: 0%;
+   top: 55px;
+   padding: 0px 0px 1px 95px;
+   font-size: 20px;
+}
+
+header .barralogo .colbusca {
+    display: flex;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+header .barralogo .colbusca ul {
+margin: 10px -461px 0px 218px;
+color: #ffffff;
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+padding: 0px 29px 0px 48px;
+font-weight: 750;
+}
+
+header .barralogo .colagencia {
+padding: 0px 29px 0px 0px;
+margin: 0px -14px 0px -302px;
+border-left:solid 1px #ffffff;
+border-right:solid 1px #ffffff;
+}
+
+header .barralogo .colagencia button {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 12px 0px 11px 29px;
+    background-color: #EC7000;
+    border: none;
+    font-size: 20px;
+    color: #ffffff;
+    line-height: 24px;
+    background-color: transparent;
+    text-align: left;
+    cursor: pointer;
+    display: inline-flex;
+    font-weight: 700;
+}
+
+header .barralogo .colbusca icon {
+    background-color: #EC7000;
+    margin: 0px 0px 0px 276px;
+    padding: 0px 0px 0px 50px;
+}
+    
+header .barralogo .colbusca icon img {
+height: 38px;
+cursor: pointer;
+}
+
+
+header .barralogo .colagencia .conta ul {
+    padding: 8px 45px;
+    background-color: #ffffff;
+    border-radius: 4px;
+    border: 1px solid #D9D3CF;
+    line-height: 28px;
+    height: 100%;
+    margin-left: 30px;
+    color: gainsboro;
+    margin-bottom: 7px;
+}
+
+header .barralogo .colagencia span img {
+    padding: 0 5px;
+    height: 23px;
+}
+
+header .barralogo .colagencia .conta  {
+display: flex;
+}
+
+header .barralogo .colagencia .conta button { 
+padding: 6px;
+}
+
+header .barralogo .colagencia .conta img {
+    height: 53px;
+}
+
+.escolhaseucartao {
+    padding: 0px 0px 0px 40px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #ffffff;
+    width: 73%;
+    margin: -89px 0px 0px -23px;
+}
+
+.escolhaseucartao .col {
+    padding: 0px;
+}
+
+.escolhaseucartao .colcards {
+    padding: 10px; 
+}
+
+.escolhaseucartao h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 38px 0px 13px 117px;
+    color: #EC7000;
+    font-size: 38px;
+    font-weight: 780;
+    line-height: 44px;
+}
+
+.escolhaseucartao p { 
+    font-family: sans-serif;
+    padding: 0px 0px 0px 117px;
+    font-size: 23px;
+    margin: -21px 0px 28px 0px;
+    letter-spacing: 1.1px;
+}
+
+.escolhaseucartao .colimg img {
+    padding: 10px 0px 10px 0px;
+    width: 121%;
+    margin: 0px 0px 0px -83px;
+    height: 592px;
+}
+
+.escolhaseucartao button {
+    padding: 13px 25px 23px 22px;
+    background-color: #EC7000;
+    border-radius: 4px;
+    text-decoration: none;
+    letter-spacing: 0;
+    font-weight: 700;
+    font-size: 19px;
+    height: 48px;
+    line-height: 26px;
+    cursor: pointer;
+    margin: 0px 0px 24px 117px;
+    color: #ffffff;
+    width: 255px;
+}
+
+.escolhaseucartao .col-md-4{
+    display: grid;
+    background-color: #efe9e5;
+    align-items: center;
+    margin: 0px -418px 0px 0px;
+    padding: 83px 0px 50px 43px;
+}
+
+.escolhaseucartao .row .col-md-8 { 
+    width: 100%;
+    padding: 0px 0px 0px 0px;
+} 
+
+.escolhaseucartao .col-md-4 .emprestimo {
+    background-color:#ffffff;
+    width: 350px;
+    height: 192px;
+    padding: 24px 0px 0px 29px;
+    margin: 25px 0px 53px 0px;
+}
+
+.escolhaseucartao .col-md-4 .open {
+    background-color:#ffffff;
+    width: 350px;
+    height: 192px;
+    padding: 24px 0px 0px 29px;
+    margin: 25px 0px 53px 0px;
+}
+
+.escolhaseucartao .col-md-4 .contaiti {
+    background-color:#ffffff;
+    width: 350px;
+    height: 192px;
+    padding: 24px 0px 0px 29px;
+    margin: 25px 0px 53px 0px;
+}
+
+.escolhaseucartao .col-md-4 .emprestimo img { 
+    height: 35px;
+    padding: 0px 0px 0px 0px;
+    margin: -4px 0px 0px -7px;
+}
+
+.escolhaseucartao .col-md-4 .open img {
+    height: 35px;
+    margin: -4px 0px 0px -7px;
+}
+
+.escolhaseucartao .col-md-4 .contaiti img { 
+    height: 35px;
+    margin: -4px 0px 0px -7px;
+}
+
+.escolhaseucartao .col-md-4 .emprestimo h2 {
+    font-family: sans-serif;
+    font-size: 18px;
+    line-height: 23px;
+    margin: 17px 0px 24px -6px;
+    color: #252220;
+}
+
+.escolhaseucartao .col-md-4 .open h3 {
+    font-family: sans-serif;
+    font-size: 18px;
+    line-height: 23px;
+    margin: 17px 0px 24px -6px;
+    color: #252220;
+
+}
+
+.escolhaseucartao .col-md-4 .contaiti h4 {
+    font-family: sans-serif;
+    font-size: 18px;
+    line-height: 23px;
+    margin: 17px 0px 24px -6px;
+    color: #252220;
+}
